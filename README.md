@@ -89,8 +89,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/course_scraper.git
-cd course_scraper
+git clone https://github.com/Suryanshu-Nabheet/Infosec_and_exploring_vulnerabilities_in_websites.git
 ```
 
 2. Create and activate a virtual environment:
